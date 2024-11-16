@@ -1,1 +1,36 @@
+@media screen and (min-width: 481px) and (max-width: 768px){
 
+  .navbar{
+    display: none;
+  }
+  
+  .header{
+    display: flex;
+    width: 90%;
+  }
+
+  .scroll-container{
+    display: flex;
+    width: 50%;
+  }
+
+  .scroll-content{
+    display: flex;
+  }
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px){
+
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px){
+
+
+}
+
+@media screen and (min-width: 1201px){
+
+
+}
